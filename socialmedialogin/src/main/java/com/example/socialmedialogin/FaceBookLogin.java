@@ -46,12 +46,12 @@ public class FaceBookLogin {
 
             @Override
             public void onCancel() {
-                Log.d("error", "cancle->");
+                Log.d("error", "cancel->");
             }
 
             @Override
             public void onError(FacebookException error) {
-                Log.d("error", "erorrr->" + error);
+                Log.d("error", "error->" + error);
             }
         });
 

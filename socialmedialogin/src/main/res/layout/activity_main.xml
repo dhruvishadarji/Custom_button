@@ -20,15 +20,19 @@
          app:layout_constraintEnd_toEndOf="parent"
          app:layout_constraintStart_toStartOf="parent"
          app:layout_constraintTop_toTopOf="parent" />-->
+
     <com.example.socialmedialogin.SampleButton
-        android:id="@+id/login_button"
-        android:layout_width="wrap_content"
+        android:id="@+id/login_button1"
+        android:layout_width="142dp"
+        android:background="#024eff"
+        android:textColor="#fff"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
+        android:text="FaceBook Login"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
