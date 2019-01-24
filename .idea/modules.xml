@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SocialMediaLogins.iml" filepath="$PROJECT_DIR$/SocialMediaLogins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socialmedialogin/socialmedialogin.iml" filepath="$PROJECT_DIR$/socialmedialogin/socialmedialogin.iml" />
+    </modules>
+  </component>
+</project>
