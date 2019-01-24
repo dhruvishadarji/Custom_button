@@ -27,6 +27,7 @@ import static com.facebook.FacebookSdk.getApplicationContext;
  */
 
 public class FaceBookLogin {
+
     public static CallbackManager callbackManager;
 
     public static void initilization() {
